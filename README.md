@@ -2,9 +2,9 @@
 
 An Instagram Login Page Clone with a Dark Mode Toggler
 
-<img src="./img/Insta-White.png" width="720">
+<img src="./img/Insta-White.png" width="820">
 
-<img src="./img/Insta-Dark.png" width="720">
+<img src="./img/Insta-dark.png" width="820">
 
 
 In your terminal if you have git installed run this:
