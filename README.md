@@ -2,8 +2,10 @@
 
 An Instagram Login Page Clone with a Dark Mode Toggler
 
+## White mode:
 <img src="./img/Insta-White.png" width="820">
 
+## Dark Mode:
 <img src="./img/Insta-dark.png" width="820">
 
 
